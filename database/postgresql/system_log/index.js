@@ -1,4 +1,4 @@
-const db = require("../../../lib/global/database/index");
+const db = require("../../../lib/global/database");
 const util = require("util");
 
 
